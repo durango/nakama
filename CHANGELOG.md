@@ -12,6 +12,7 @@ The format is based on [keep a changelog](http://keepachangelog.com) and this pr
 - Improve user online status lookups.
 - Build with Go 1.18.1 release.
 - Correct naming of delete notifications before/after hook registration functions.
+- Add subscription validation APIs and runtime functions for Google and Apple.
 
 ### Fixed
 - Fix data returned by StreamUserList in JS runtime.
